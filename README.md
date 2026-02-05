@@ -19,5 +19,5 @@ The model may easily overfit
 
 Validation results can be unstable
 
-![My Image]([https://lilianweng.github.io/lil-log/assets/images/denoising-autoencoder-architecture.png](https://www.itnonline.com/sites/default/files/styles/content_feed_large/public/Thirona_Delft%20Imaging_CAD4COVID_COVID_AI.jpg?itok=GSWbzaC9))
+![My Image](https://www.itnonline.com/sites/default/files/styles/content_feed_large/public/Thirona_Delft%20Imaging_CAD4COVID_COVID_AI.jpg?itok=GSWbzaC9)
 
